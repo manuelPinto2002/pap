@@ -4,6 +4,7 @@
 
 @extends('layouts.app')
 <link href=" {{ URL::asset('css/login.css') }}" rel="stylesheet">
+<link href=" {{ URL::asset('css/layoutnav.css') }}" rel="stylesheet">
 @section('content')
 
 <div class="container">
